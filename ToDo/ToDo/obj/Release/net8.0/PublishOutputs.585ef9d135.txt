@@ -1,0 +1,5 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\ToDo\ToDo\bin\Release\net8.0\app.publish\ToDo.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\ToDo\ToDo\bin\Release\net8.0\app.publish\ToDo.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\ToDo\ToDo\bin\Release\net8.0\app.publish\ToDo.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\ToDo\ToDo\bin\Release\net8.0\app.publish\ToDo.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\ToDo\ToDo\bin\Release\net8.0\app.publish\ToDo.pdb
